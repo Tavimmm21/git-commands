@@ -19,5 +19,4 @@ git clone <link-repositório>
 cd <path-repositorio>
 ```
 
-# GEN.IA.LITY
 
