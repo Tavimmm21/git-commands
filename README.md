@@ -21,5 +21,6 @@ cd <path-repositorio>
 ## Setup 
 
 1 - Baixar VS Code 
+<br>
 2 - Instalar o GIT 
 
