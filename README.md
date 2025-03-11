@@ -19,4 +19,3 @@ git clone <link-repositório>
 cd <path-repositorio>
 ```
 
-## Minha Empresa 
