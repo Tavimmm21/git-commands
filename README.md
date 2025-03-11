@@ -18,5 +18,8 @@ git clone <link-repositório>
 # Acessando o repositório
 cd <path-repositorio>
 ```
+## Setup 
 
+1 - Baixar VS Code 
+2 - Instalar o GIT 
 
